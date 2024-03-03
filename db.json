@@ -28,6 +28,67 @@
       "Title": "The Notebook",
       "Year": "2004",
       "Runtime": "123 min"
+    },
+
+    {
+      "Title": "Inception",
+      "Year": "2010",
+      "Runtime": "148 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxMl5BMl5BanBnXkFtZTcwMTI5OTM0Mw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Shawshank Redemption",
+      "Year": "1994",
+      "Runtime": "142 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Pulp Fiction",
+      "Year": "1994",
+      "Runtime": "154 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Dark Knight",
+      "Year": "2008",
+      "Runtime": "152 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Forrest Gump",
+      "Year": "1994",
+      "Runtime": "142 min"
+    },
+    {
+      "Title": "The Matrix",
+      "Year": "1999",
+      "Runtime": "136 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLTk1MzAtZDNmZjgyZTljNDUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Fight Club",
+      "Year": "1999",
+      "Runtime": "139 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjktZTBkOC00MWJiLWIyMTQtYzU4M2VlOTRhZDE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Godfather",
+      "Year": "1972",
+      "Runtime": "175 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDEyMTMwMzMwNl5BMl5BanBnXkFtZTcwMTUzMDc2Nw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Year": "2001",
+      "Runtime": "178 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2EyMzljMmItM2ViZC00ZGJkLTgyMWYtZDdhMGFmYmNmNjkxXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Schindler's List",
+      "Year": "1993",
+      "Runtime": "195 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjg5MDUyOV5BMl5BanBnXkFtZTcwMTA0NTc3Nw@@._V1_SX300.jpg"
     }
+
   ]
 }
